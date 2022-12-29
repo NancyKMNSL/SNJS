@@ -1,0 +1,24 @@
+[{
+    "code":"saladeA",
+    "nom":"Avocats", 
+    "type":"plat",
+    "prix":2000,
+    "photo":"saladeavocats.png",
+    "cuisson":3, 
+    "quantite":1
+},{"code":"saladeP",
+    "nom":"Caesar-Poulet",
+    "type":"plat",
+    "prix":2500,
+    "photo":"saladecaesarpoulet.png",
+    "cuisson":4,
+    "quantite":2
+},{"code":"saladeC",
+    "nom":"Colieri",
+    "type":"plat",
+    "prix":2700,
+    "photo":"saladecolieri.png",
+    "cuisson":3, 
+    "quantite":1
+}
+]
